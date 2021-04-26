@@ -1,0 +1,20 @@
+{
+  "name": "Atividade10-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meliielly/atividade10-web-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meliielly/atividade10-web-node/issues"
+  },
+  "homepage": "https://github.com/meliielly/atividade10-web-node#readme"
+}
